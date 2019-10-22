@@ -16,3 +16,12 @@ $ git push origin master
 $ git push heroku master
 ```
 
+# Compile
+```
+$ mvn clean compile package
+```
+
+# Run 
+```
+$ mvn spring-boot:run
+```
